@@ -23,7 +23,7 @@ tags:
 
 不过 DeskDock 搭配立式无线充电底座一起使用，效果意外的很不错
 
-![screenshot_1](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_1_270x600.jpg)![screenshot_2](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_2_270x600.jpg)
+![screenshot_1](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_1_270x600.jpg) ![screenshot_2](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_2_270x600.jpg)
 
 由于我只有一台主力机，备用机也只有好几年前的千元红米机器，所以无法自行拍摄很多图片或者制作 Gif 来供演示，本篇文章可能文字描述偏多，且图片较少，我会尽量找到一些素材做成 Gif 作为参考，还请见谅。
 
@@ -153,7 +153,7 @@ _Screen Switch Shortcut_，这个快捷键似乎是无法处罚的，尝试过�
 
 在 Android（被控制） 端也是有更多的设置可供调节的，如：**光标大小、光标速度、物理键盘输入控制**等等，我主要就是用来控制和输入就足够了，并没有研究太多的设置，这方面有兴趣的用户可自行尝试。
 
-![screenshot_5](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_5_270x600.jpg)![screenshot_6](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_6_270x600.jpg)
+![screenshot_5](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_5_270x600.jpg) ![screenshot_6](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_6_270x600.jpg)
 
 ## 快捷键操作
 
