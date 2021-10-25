@@ -39,7 +39,7 @@ tags:
 * **注2：** 该软件最后更新日为 **2019年10月21日** ，后续还会不会更新并不清楚，或许开发者已经抛弃这款应用了；
 * **注3：** 目前该应用最高**应该**可以支持到 **Windows11** 及 **Android11** 版本（由于没有 iMac 设备，我并不知道能支持到什么系统），未来是否能支持新系统还是个未知数；
 
-[![DeskDock Logo](img/DeskDock/DeskDock_LOGO.png "DeskDock Logo")](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free&hl=ja&gl=US)
+[![DeskDock Logo](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_LOGO.png "DeskDock Logo")](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free&hl=ja&gl=US)
 
 [DeskDock]: https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free&hl=ja&gl=US
 [Scrcpy]: https://github.com/Genymobile/scrcpy
