@@ -23,8 +23,8 @@ tags:
 
 不过 DeskDock 搭配立式无线充电底座一起使用，效果意外的很不错
 
-![screenshot_1](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_Screenshot_1_270x600.jpg)
-![screenshot_2](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_Screenshot_2_270x600.jpg)
+![screenshot_1](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_1_270x600.jpg)
+![screenshot_2](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_2_270x600.jpg)
 
 由于我只有一台主力机，备用机也只有好几年前的千元红米机器，所以无法自行拍摄很多图片或者制作 Gif 来供演示，本篇文章可能文字描述偏多，且图片较少，我会尽量找到一些素材做成 Gif 作为参考，还请见谅。
 
@@ -39,7 +39,7 @@ tags:
 * **注2：** 该软件最后更新日为 **2019年10月21日** ，后续还会不会更新并不清楚，或许开发者已经抛弃这款应用了；
 * **注3：** 目前该应用最高**应该**可以支持到 **Windows11** 及 **Android11** 版本（由于没有 iMac 设备，我并不知道能支持到什么系统），未来是否能支持新系统还是个未知数；
 
-[![DeskDock Logo](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_LOGO.png "DeskDock Logo")](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free&hl=ja&gl=US)
+[![DeskDock Logo](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_LOGO.png "DeskDock Logo")](https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free&hl=ja&gl=US)
 
 [DeskDock]: https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free&hl=ja&gl=US
 [Scrcpy]: https://github.com/Genymobile/scrcpy
@@ -138,7 +138,7 @@ _DeskDock_ 使用 `adb` 与设备通信，并且 `adb` 支持通过 TCP/IP [连�
 
 同时若通过 <kbd>CTRL</kbd> + <kbd>鼠标离开手机屏幕</kbd> 的操作让鼠标返回到电脑显示器，即可将手机屏幕熄灭同时锁定屏幕
 
-![Screenshot_3](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_Screenshot_3.png)
+![Screenshot_3](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_3.png)
 
 ### Advanced 更多设置
 
@@ -148,14 +148,14 @@ _Screen Switch Shortcut_，这个快捷键似乎是无法处罚的，尝试过�
 
 **Dark Tray Icon - 深色托管图标**，这个可能常用点，其他设置如果有读者知道怎么用，欢迎来教教我ww
 
-![Screenshot_4](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_Screenshot_4.png)
+![Screenshot_4](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_4.png)
 
 ### DeskDock Android 端更多设置
 
 在 Android（被控制） 端也是有更多的设置可供调节的，如：**光标大小、光标速度、物理键盘输入控制**等等，我主要就是用来控制和输入就足够了，并没有研究太多的设置，这方面有兴趣的用户可自行尝试。
 
-![screenshot_5](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_Screenshot_5_270x600.jpg)
-![screenshot_6](https://github.com/SenaJun/SenaJun.github.io/blob/main/img/DeskDock/DeskDock_Screenshot_6_270x600.jpg)
+![screenshot_5](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_5_270x600.jpg)
+![screenshot_6](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_6_270x600.jpg)
 
 ## 快捷键操作
 
