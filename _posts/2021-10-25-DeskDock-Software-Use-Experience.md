@@ -23,7 +23,7 @@ tags:
 
 不过 DeskDock 搭配立式无线充电底座一起使用，效果意外的很不错
 
-![screenshot_1](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_1_270x600.jpg) ![screenshot_2](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_2_270x600.jpg)
+![screenshot_1](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_1_200x444.jpg) ![screenshot_2](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_2_200x444.jpg)
 
 由于我只有一台主力机，备用机也只有好几年前的千元红米机器，所以无法自行拍摄很多图片或者制作 Gif 来供演示，本篇文章可能文字描述偏多，且图片较少，我会尽量找到一些素材做成 Gif 作为参考，还请见谅。
 
@@ -48,12 +48,12 @@ tags:
 
 ## 事前准备
 
-### Android 设备开启 USB 调试
+#### Android 设备开启 USB 调试
 
 在开始使用之前，需要先通过 Android 的开发者选项，打开 USB 调试选项
 不同品牌的 Android 手机打开开发者选项的方法都稍微有些不同，这里以读者都会打开为前提，不都做阐述，实在不会的还请出门百度查询如何打开后再继续阅读。
 
-### 通关 Google Play 下载 [DeskDock Free] 进行先行体验
+#### 通关 Google Play 下载 [DeskDock Free] 进行先行体验
 
 [DeskDock (Pro)] 为付费应用，**日区** Google Play 的价格为 **620JPY**；
 不过官方有推出 Free 版本供用户体验应用，且由于在上面的简述中提到的 **注1** 和 **注2** 所以不建议大家一上来就付费买 Pro，还请使用过 Free 版本后，并不在乎 **注1** 和 **注2** 后，再进行购买。
@@ -61,7 +61,7 @@ tags:
 [DeskDock Free]: https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.free&hl=ja&gl=US
 [DeskDock (Pro)]: https://play.google.com/store/apps/details?id=com.floriandraschbacher.deskdock.pro&hl=ja&gl=US
 
-### 电脑下载 DeskDockServer
+#### 电脑下载 DeskDockServer
 
 同手机上的 DeskDock 相同，桌面上的 DeskDockServer 已经停止维护，能找到的最新版本就是 **Ver.1.2.2** 版本
 
@@ -74,7 +74,7 @@ DeskDockServer 为免费应用，且非常重要，没有此软件便无法使�
 [百度云网盘 提取码: 7ign]: https://pan.baidu.com/s/15lIBBlMmEIa5XubQNEiRcg
 [OneDrive]: https://1drv.ms/u/s!Ai5xEaZt3wFGh_1czaWfliGZaW0RqA?e=f34PMx
 
-### 更新 Windows JAVA 至最新版本
+#### 更新 Windows JAVA 至最新版本
 
 使用 DeskDockServer for Windows 时，需要对应的 JAVA 环境 （JRE 1.7 or newer on your computer if you haven't already.)
 
@@ -90,7 +90,7 @@ DeskDockServer 为免费应用，且非常重要，没有此软件便无法使�
 
 > 以下操作均已 Android 手机已启用 USB 调试，且各个设备已经安装好对应软件为前提
 
-### 连结设备并使用
+#### 连结设备并使用
 
 1. 通过 USB 数据线将手机连接至电脑，并在手机上打开 DeskDock
 2. 在 Windows/iMac 设备中启动 DeskDock Server
@@ -103,7 +103,7 @@ DeskDockServer 为免费应用，且非常重要，没有此软件便无法使�
 
 ## 通过 WiFi 局域网连结
 
-### 将 Android 设备连接至电脑
+#### 将 Android 设备连接至电脑
 
 _DeskDock_ 使用 `adb` 与设备通信，并且 `adb` 支持通过 TCP/IP [连接]到设备，此步骤与 Scrcpy 的无线连接相同，读者也可以参考 _Scrcpy_ 的 Readme 文档进行操作。
 
@@ -119,7 +119,7 @@ _DeskDock_ 使用 `adb` 与设备通信，并且 `adb` 支持通过 TCP/IP [连�
 
 [连接]: https://developer.android.com/studio/command-line/adb.html#wireless
 
-### DeskDock 支持多设备无线连接
+#### DeskDock 支持多设备无线连接
 
 若您在电脑中已经启动 DeskDeckServer
 您通过 `adb connect` 连接了多台设备，您可通过 `adb devices` 查看每个设备的连接状态
@@ -129,7 +129,7 @@ _DeskDock_ 使用 `adb` 与设备通信，并且 `adb` 支持通过 TCP/IP [连�
 
 ## DeskDockServer 设置
 
-### 调整手机窗口激活位置
+#### 调整手机窗口激活位置
 
 与 _Windows/Mac_ 的多显示器设置相同，可以**随意调整**手机屏幕的位置，该位置主要为**鼠标超出电脑显示器边缘，并切换激活手机操控的位置**
 
@@ -139,7 +139,7 @@ _DeskDock_ 使用 `adb` 与设备通信，并且 `adb` 支持通过 TCP/IP [连�
 
 ![Screenshot_3](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_3.png)
 
-### Advanced 更多设置
+#### Advanced 更多设置
 
 关于这里的额外设置内容（特别是 _Synergy_ 设置），一般都不会用到 ~(我也没去研究过怎么用就是了)~
 
@@ -149,7 +149,7 @@ _Screen Switch Shortcut_，这个快捷键似乎是无法处罚的，尝试过�
 
 ![Screenshot_4](https://raw.githubusercontent.com/SenaJun/SenaJun.github.io/master/img/DeskDock/DeskDock_Screenshot_4.png)
 
-### DeskDock Android 端更多设置
+#### DeskDock Android 端更多设置
 
 在 Android（被控制） 端也是有更多的设置可供调节的，如：**光标大小、光标速度、物理键盘输入控制**等等，我主要就是用来控制和输入就足够了，并没有研究太多的设置，这方面有兴趣的用户可自行尝试。
 
