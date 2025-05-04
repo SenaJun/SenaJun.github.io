@@ -210,3 +210,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2134024999
 [b]Princess Connect! Re: Dive 21:9 Collections：[/b]
 https://steamcommunity.com/sharedfiles/filedetails/?id=2137377323
 ```
+3. 最后点击发布的时候，无脑选择全年龄，无血腥暴力，无色情露出，然后等待发布完成
+
+### 以上，教程结束,如果还有不懂的，请在评论区留言，或给我发生邮件即可
