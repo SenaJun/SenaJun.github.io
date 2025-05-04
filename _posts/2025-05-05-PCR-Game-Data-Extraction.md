@@ -1,3 +1,21 @@
+---
+layout:     post
+title:      公主链接大厅 Live2D 动画提取、超分、补帧、合并全流程
+subtitle:   公主连结大厅动画制作教程
+date:       2025-05-05
+author:     SenaJun
+header-img: img/PCR_Game_Data_Extraction/PCR_Game_Data_Extraction_Head.jpg
+catalog: true
+tags:
+    - WallpaperEngine
+    - 教程
+    - 超分
+    - 补帧
+    - 公主连结
+    - PCR
+    - プリンセスコネクト
+---
+
 # 公主链接大厅 Live2D 动画提取、超分、补帧、合并全流程
 
 **请勿将提取后的所有物品用作商业用途，且请勿提取任何游戏未实装的角色资料并公布于网络，若您进行了包括但不限于以上的操作，请后果自负，本教程仅供学习参考，所有后果概不负责**
