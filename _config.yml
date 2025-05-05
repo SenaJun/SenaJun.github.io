@@ -5,7 +5,7 @@ header-img: img/65497494_p0.png
 email: adsjkqwsad@gmail.com
 description: "大切な人と、何時かまだ巡り会えますように。"
 keyword: "SenaJun, ブログ, 順の理想乡, 理想郷, 理想乡, 瀬名順, 濑名顺"
-url: "http://SenaJun.github.io"          # your host, for absolute URL
+url: "https://SenaJun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/SenaJun/SenaJun.github.io.git" # you code repository
 
